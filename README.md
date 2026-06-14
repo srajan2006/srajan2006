@@ -61,13 +61,14 @@ End-to-end machine learning deployment
 
 ---
 
-## GitHub Stats
 
-[Stats Card]
+## 📊 GitHub Stats
 
-[Streak Card]
+![](https://github-readme-stats.vercel.app/api?username=srajan2006&show_icons=true&theme=tokyonight)
 
-[Top Languages]
+![](https://github-readme-streak-stats.herokuapp.com/?user=srajan2006&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srajan2006&layout=compact&theme=tokyonight)
 
 ---
 
@@ -82,6 +83,10 @@ End-to-end machine learning deployment
 
 ## Connect With Me
 
-LinkedIn
-Portfolio
-Email
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srajan2006)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://srajan2006.github.io/portfolio/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:srajangupta146@gmail.com)
