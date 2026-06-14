@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Srajan Gupta 👋
 
-<!--
-**srajan2006/srajan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student passionate about building scalable software, AI solutions, and data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 B.Tech AI & Data Science
+
+💻 Interested in:
+- Software Engineering
+- Full Stack Development
+- AI/ML
+- Data Science
+- Data Engineering
+
+🌱 Currently Learning:
+- Advanced Data Structures
+- Machine Learning
+- System Design
+- Cloud Computing
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python | JavaScript | C | SQL
+
+### Frontend
+HTML | CSS | JavaScript | React
+
+### Backend
+Node.js | Express
+
+### Database
+MySQL | PostgreSQL
+
+### Data Science
+Pandas | NumPy | Matplotlib | Scikit-Learn
+
+### Tools
+Git | GitHub | VS Code
+
+---
+
+## Featured Projects
+
+### AI Resume Analyzer
+ATS score prediction and resume optimization
+
+### Data Engineering Pipeline
+ETL pipeline using Python and SQL
+
+### Full Stack Job Portal
+Authentication, dashboards and APIs
+
+### ML Prediction System
+End-to-end machine learning deployment
+
+---
+
+## GitHub Stats
+
+[Stats Card]
+
+[Streak Card]
+
+[Top Languages]
+
+---
+
+## Goals for 2026
+
+- Open Source Contributions
+- 1000+ LeetCode Problems
+- AI SaaS Projects
+- Internship at Product Company
+
+---
+
+## Connect With Me
+
+LinkedIn
+Portfolio
+Email
